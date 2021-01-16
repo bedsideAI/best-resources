@@ -69,4 +69,9 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 - [Hands on Machine Learning (HOML) with Scikit-Learn, Keras & Tensorflow 2nd Ed](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - ($) Perhaps the most complete coverage of TF 2.0 for beginners (2021).
 - [Pyimagesearch Keras/TensorFlow Tutorials](https://www.pyimagesearch.com/category/keras-and-tensorflow/) - Some of the best TF/Keras tutorials on the net
 
+### Distributed/Parallel Computing
+#### [Dask](https://dask.org) - Scalable analytics in Python
+#### [Ray](https://ray.io) - Fast and simple distributed computing
+#### [Rapids.ai](https://rapids.ai/) - Open GPU Data Science
+
 
