@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Bedside.AI Best-of Resources
+    Bedside.AI Best Resources
     <br>
 </h1>
 
@@ -12,7 +12,7 @@
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
 </p>
 
-If you would like to add or update our list, feel free to open an [issue](https://github.com/bedsideAI/best-of-resources/issues/new/choose) or submit a [pull request](https://github.com/bedsideAI/best-of-resources/pulls).
+If you would like to add or update our list, feel free to open an [issue](https://github.com/bedsideAI/best-resources/issues/new/choose) or submit a [pull request](https://github.com/bedsideAI/best-resources/pulls).
 
 
 ---
