@@ -20,6 +20,10 @@ If you would like to add or update our list, feel free to open an [issue](https:
 ## Contents
 
 - [Tutorials](#tutorials)
+    - [Shell](#shell)
+    - [Version Control](#version-control)
+    - [Python](#python)
+    - [R](#r)
 - [Python Machine Learning](#python-machine-learning)
 - [Biological Signal Processing](#biological-signal-processing)
 
@@ -27,11 +31,11 @@ If you would like to add or update our list, feel free to open an [issue](https:
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 General computing tutorials for biomedical sciences.
 
-### Terminal/Unix
+### Shell
 - [Ryan's Tutorials](https://ryanstutorials.net/) - Covers Bash Scripting, Linux, Regular Expressions, Programming Challenges
 - [Software Carpentry - Shell tutorial (novice)](https://swcarpentry.github.io/shell-novice/)
 
-### Git/GitHub
+### Version Control
 - [Software Carpentry - Git tutorial (novice)](https://swcarpentry.github.io/git-novice/)
 
 ### Python
