@@ -50,6 +50,7 @@ General computing tutorials for biomedical sciences.
 ### Python
 - [Software Carpentry - Inflammation tutorial (novice)](https://swcarpentry.github.io/python-novice-inflammation/)
 - [Software Carpentry - Gapminder tutorial (novice)](http://swcarpentry.github.io/python-novice-gapminder/)
+- End to End Machine Learning - Getting ready to learn Python - [Mac](https://end-to-end-machine-learning.teachable.com/p/111-getting-ready-to-learn-python-mac-edition/) and [Windows](https://end-to-end-machine-learning.teachable.com/p/112-getting-ready-to-learn-python-windows-edition/) editions. 
 
 ### R
 - [Software Carpentry - Inflammation tutorial (novice)](http://swcarpentry.github.io/r-novice-inflammation/) 
