@@ -25,7 +25,16 @@ If you would like to add or update our list, feel free to open an [issue](https:
     - [Python](#python)
     - [R](#r)
 - [Python Machine Learning](#python-machine-learning)
+    - [General](#general)
+    - [Numpy](#numpy)
+    - [Pandas](#pandas)
+    - [scikit-learn](#scikit-learn)
+    - [TensorFlow](#tensorflow)
+    - [PyTorch](#pytorch)
+    - [Distributed and Parallel Computing](#distributed-and-parallel-computing)
 - [Biological Signal Processing](#biological-signal-processing)
+    - [Python biosignal packages](#python-biosignal-packages)
+    - [Python wavelet transforms](#python-wavelet-transforms)
 
 ## Tutorials
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -78,7 +87,7 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 An open source machine learning framework that accelerates the path from research prototyping to production deployment. Often described as the most "pythonic" of the deep learning libraries. **Extremely popular in the research community** due to high extensibility and eager execution by default (straightforward debugging). 
 - [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - Free eBook
 
-### Distributed/Parallel Computing
+### Distributed and Parallel Computing
 #### [Dask](https://dask.org) - Scalable analytics in Python
 #### [Ray](https://ray.io) - Fast and simple distributed computing
 #### [Rapids.ai](https://rapids.ai/) - Open GPU Data Science
@@ -89,7 +98,7 @@ An open source machine learning framework that accelerates the path from researc
 - [Ahmet Taspinar - Machine learning with signal processing techniques](https://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques/)
 - [Ahmet Taspinar - Guide for using wavelet transform in machine learning](https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/)
 
-### Biosignal processing (Python)
+### Python biosignal packages 
 - [Neurokit2](https://github.com/neuropsychology/NeuroKit) - ECG, PPG, RSP, EDA, EMG
 - [BioSPPY](https://github.com/PIA-Group/BioSPPy) - ECG, RSP, EDA, EMG
 - [PySiology](https://github.com/Gabrock94/Pysiology) - ECG, EDA, EMG
@@ -102,6 +111,6 @@ An open source machine learning framework that accelerates the path from researc
 - [Systole](https://github.com/embodied-computation-group/systole) - PPG
 - [MIT Waveform Database (WFDB)](https://github.com/MIT-LCP/wfdb-python) - ECG
 
-### Wavelet Transforms (Python)
+### Python wavelet transforms
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
