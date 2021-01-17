@@ -21,6 +21,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
 
 - [Tutorials](#tutorials)
 - [Python Machine Learning](#python-machine-learning)
+- [Biological Signal Processing](#biological-signal-processing)
 
 ## Tutorials
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -74,4 +75,24 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 #### [Ray](https://ray.io) - Fast and simple distributed computing
 #### [Rapids.ai](https://rapids.ai/) - Open GPU Data Science
 
+## Biological Signal Processing
+
+- [Ahmet Taspinar - Machine learning with signal processing techniques](https://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques/)
+- [Ahmet Taspinar - Guide for using wavelet transform in machine learning](https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/)
+
+### Biosignal processing (Python)
+- [Neurokit2](https://github.com/neuropsychology/NeuroKit) - ECG, PPG, RSP, EDA, EMG
+- [BioSPPY](https://github.com/PIA-Group/BioSPPy) - ECG, RSP, EDA, EMG
+- [PySiology](https://github.com/Gabrock94/Pysiology) - ECG, EDA, EMG
+- [pyphysio](https://github.com/MPBA/pyphysio) - ECG
+- [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) - ECG
+- [hrv](https://github.com/rhenanbartels/hrv) - ECG
+- [hrv-analysis](https://github.com/Aura-healthcare/hrvanalysis) - ECG
+- [pyhrv](https://github.com/PGomes92/pyhrv) - ECG
+- [py-ecg-detectors](https://github.com/berndporr/py-ecg-detectors) - ECG
+- [Systole](https://github.com/embodied-computation-group/systole) - PPG
+- [MIT Waveform Database (WFDB)](https://github.com/MIT-LCP/wfdb-python) - ECG
+
+### Wavelet Transforms (Python)
+- [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
