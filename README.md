@@ -36,6 +36,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
 - [Biological Signal Processing](#biological-signal-processing)
     - [Python biosignal packages](#python-biosignal-packages)
     - [Python wavelet transforms](#python-wavelet-transforms)
+- [Math](#math)
 
 ## Tutorials
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
@@ -120,3 +121,6 @@ An open source machine learning framework that accelerates the path from researc
 ### Python wavelet transforms
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
+## Math 
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - ($) Learn the math of ML through coding (Python)
