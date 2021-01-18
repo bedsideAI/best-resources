@@ -61,6 +61,7 @@ General computing tutorials for biomedical sciences.
 
 ### Machine Learning
 - [Open (University) Courses in Machine Learning](https://github.com/kabartay/OpenUnivCourses)
+- [A course in Machine Learning](http://ciml.info)
 
 ## Python Machine Learning
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
