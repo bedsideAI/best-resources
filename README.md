@@ -24,6 +24,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
     - [Version Control](#version-control)
     - [Python](#python)
     - [R](#r)
+    - [Machine Learning](#machine-learning)
 - [Python Machine Learning](#python-machine-learning)
     - [General](#general)
     - [Numpy](#numpy)
@@ -57,6 +58,9 @@ General computing tutorials for biomedical sciences.
 - [Software Carpentry - Gapminder tutorial (novice)](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Data science for practicing clinicians](https://carpentries-incubator.github.io/Data-Science-for-Docs/)
 - [ds4biomed](https://ds4biomed.tech/) - A Carpentries-inspired book for data science for folks in the medical and biomedical space, currently written in R (Python will be added after the syllabus is filled)
+
+### Machine Learning
+- [Open (University) Courses in Machine Learning](https://github.com/kabartay/OpenUnivCourses)
 
 ## Python Machine Learning
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
