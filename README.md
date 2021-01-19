@@ -36,6 +36,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
 - [Biological Signal Processing](#biological-signal-processing)
     - [Python biosignal packages](#python-biosignal-packages)
     - [Python wavelet transforms](#python-wavelet-transforms)
+    - [Matrix profile](#matrix-profile)
 - [Math](#math)
 
 ## Tutorials
@@ -120,6 +121,12 @@ An open source machine learning framework that accelerates the path from researc
 
 ### Python wavelet transforms
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
+
+### Matrix profile
+- [SCAMP (SCALable Matrix Profile)](https://github.com/zpzim/SCAMP) - CPU/GPU implementation of the SCAMP algorithm for computing the matrix profile. Fastest way to calculate matrix profile and includes examples for nvidia-docker.
+- [mass-ts](https://github.com/matrix-profile-foundation/mass-ts) - Mueen's algorithm for similarity search (MASS) - used for searching time series sub-sequences under z-normalized Euclidean distance for similarity.
+- [matrixprofile](https://github.com/matrix-profile-foundation/matrixprofile) - Time series mining tasks from the matrix profile foundation. Similar to stumpy, but easier to implement (according to authors)
+- [stumpy](https://github.com/TDAmeritrade/stumpy) - Matrix profile calculation with Dask and GPU implementations.
 
 ## Math 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
