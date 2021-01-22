@@ -69,7 +69,7 @@ General computing tutorials for biomedical sciences.
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 ### General
 - [Chris Albon - Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com) - So many **awesome** code snippets!
-
+- [Abhishek Thakur - Approaching Almost Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
 ### [NumPy](https://numpy.org)
 Python library for manipulating and crunching n-dimensional array data. Foundational to python’s leading ML tools including scikit-learn, scipy, pandas, and TensorFlow.
 - [Jay Alammar - A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
