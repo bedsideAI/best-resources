@@ -33,6 +33,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
     - [TensorFlow](#tensorflow)
     - [PyTorch](#pytorch)
     - [Distributed and Parallel Computing](#distributed-and-parallel-computing)
+    - [Experiment tracking](#experiment-tracking)
 - [Biological Signal Processing](#biological-signal-processing)
     - [Python biosignal packages](#python-biosignal-packages)
     - [Python wavelet transforms](#python-wavelet-transforms)
@@ -99,6 +100,9 @@ An open source machine learning framework that accelerates the path from researc
 #### [Dask](https://dask.org) - Scalable analytics in Python
 #### [Ray](https://ray.io) - Fast and simple distributed computing
 #### [Rapids.ai](https://rapids.ai/) - Open GPU Data Science
+
+### Experiment tracking
+- [GuildAI](https://guild.ai)
 
 ## Biological Signal Processing
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
