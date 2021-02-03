@@ -61,6 +61,7 @@ General computing tutorials for biomedical sciences.
 - [Software Carpentry - Gapminder tutorial (novice)](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Data science for practicing clinicians](https://carpentries-incubator.github.io/Data-Science-for-Docs/)
 - [ds4biomed](https://ds4biomed.tech/) - A Carpentries-inspired book for data science for folks in the medical and biomedical space, currently written in R (Python will be added after the syllabus is filled)
+- [Tidyverse Skills for Data Science in R](https://leanpub.com/tidyverseskillsdatascience)
 
 ### Machine Learning
 - [Open (University) Courses in Machine Learning](https://github.com/kabartay/OpenUnivCourses)
