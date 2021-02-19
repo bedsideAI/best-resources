@@ -39,6 +39,7 @@ If you would like to add or update our list, feel free to open an [issue](https:
     - [Python wavelet transforms](#python-wavelet-transforms)
     - [Matrix profile](#matrix-profile)
 - [Math](#math)
+- [Online Courses](#online-courses)
 
 ## Tutorials
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
