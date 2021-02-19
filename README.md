@@ -136,3 +136,6 @@ An open source machine learning framework that accelerates the path from researc
 ## Math 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - ($) Learn the math of ML through coding (Python)
+
+## Online Courses
+- [MIT: Machine Learning for Healthcare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/) - Free lectures and notes going over many concepts relevant to ML in healthcare
